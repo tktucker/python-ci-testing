@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*,cover
+htmlcov/*
+
+# virtualenv
+venv/
+ENV/
+
+# env secrets
+.env
